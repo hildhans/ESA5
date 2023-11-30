@@ -1,3 +1,4 @@
+neuer Code - aber Schwachsinn!
 def print_board(board):
     # Funktion zum Drucken des Tic-Tac-Toe-Spielfelds.
     for row in board:
